@@ -107525,7 +107525,7 @@ if(s!=null&&s!=="false")$.ao.k4$.push(new A.aH5(this))},
 wQ(){var s=0,r=A.a_(t.H),q,p=2,o=[],n=[],m=this,l,k,j,i,h,g,f,e,d
 var $async$wQ=A.V(function(a,b){if(a===1){o.push(b)
 s=p}while(true)switch(s){case 0:m.a_(new A.aGU(m))
-l=A.fe("https://sihshyaai.com/education/api_login_token",0,null)
+l=A.fe("https://shishyaai.com/education/api_login_token",0,null)
 p=4
 h={}
 g=t.N
@@ -107699,7 +107699,7 @@ aiB(a){var s=0,r=A.a_(t.H),q=1,p=[],o=this,n,m,l,k,j,i,h
 var $async$Bg=A.V(function(b,c){if(b===1){p.push(c)
 s=q}while(true)switch(s){case 0:o.a_(new A.aHY(o))
 q=3
-l=A.fe("https://sihshyaai.com/education/sub_api/"+a+"/",0,null)
+l=A.fe("https://shishyaai.com/education/sub_api/"+a+"/",0,null)
 k=t.N
 j=A.T(["Content-Type","application/json"],k,k)
 s=6
@@ -107725,7 +107725,7 @@ aiz(a,b){var s=0,r=A.a_(t.H),q=1,p=[],o=this,n,m,l,k,j,i,h
 var $async$Be=A.V(function(c,d){if(c===1){p.push(d)
 s=q}while(true)switch(s){case 0:o.a_(new A.aHR(o))
 q=3
-l=A.fe("https://sihshyaai.com/education/chap_api/"+a+"/"+b+"/",0,null)
+l=A.fe("https://shishyaai.com/education/chap_api/"+a+"/"+b+"/",0,null)
 k=t.N
 j=A.T(["Content-Type","application/json"],k,k)
 s=6
@@ -107751,7 +107751,7 @@ aiA(a,b,c){var s=0,r=A.a_(t.H),q=1,p=[],o=this,n,m,l,k,j,i,h,g,f
 var $async$Bf=A.V(function(d,e){if(d===1){p.push(e)
 s=q}while(true)switch(s){case 0:o.a_(new A.aHV(o))
 q=3
-k=A.fe("https://sihshyaai.com/education/material_api/"+a+"/"+b+"/"+c+"/",0,null)
+k=A.fe("https://shishyaai.com/education/material_api/"+a+"/"+b+"/"+c+"/",0,null)
 j=t.N
 i=A.T(["Content-Type","application/json"],j,j)
 s=6
@@ -107798,7 +107798,7 @@ h=a3==null?"":a3
 p=4
 a4=A.acg()
 g=a4==null?new A.o0(A.d([],t.b)):a4
-f=A.auU("POST",A.fe("https://sihshyaai.com/education/send_message_api",0,null))
+f=A.auU("POST",A.fe("https://shishyaai.com/education/send_message_api",0,null))
 f.r.m(0,"Content-Type","application/json")
 J.aR0(f,B.br.nC(A.T(["question",l,"last_content",k,"standard",j,"subject",i,"chapter",h,"token",$.kX],t.N,t.z),null))
 s=7
@@ -108334,7 +108334,7 @@ break}a.a_(new A.aJ3(a))
 p=4
 f=A.acg()
 l=f==null?new A.o0(A.d([],t.b)):f
-k=A.auU("POST",A.fe("https://sihshyaai.com/education/single_question_api",0,null))
+k=A.auU("POST",A.fe("https://shishyaai.com/education/single_question_api",0,null))
 k.r.m(0,"Content-Type","application/json")
 J.aR0(k,B.br.nC(A.T(["question",a0,"token",$.kX],t.N,t.ob),null))
 s=7
@@ -108518,7 +108518,7 @@ s=p}while(true)switch(s){case 0:e=B.c.cD(n.d.a.a)
 if(J.c2(e)===0){s=1
 break}n.a_(new A.aML(n,e))
 p=4
-j=A.fe("https://sihshyaai.com/education/search_links_api",0,null)
+j=A.fe("https://shishyaai.com/education/search_links_api",0,null)
 i=t.N
 h=A.T(["Content-Type","application/json"],i,i)
 s=7
@@ -108550,7 +108550,7 @@ break}m.a_(new A.aMD(m))
 p=4
 f=A.acg()
 l=f==null?new A.o0(A.d([],t.b)):f
-k=A.auU("POST",A.fe("https://sihshyaai.com/education/link_question_api",0,null))
+k=A.auU("POST",A.fe("https://shishyaai.com/education/link_question_api",0,null))
 k.r.m(0,"Content-Type","application/json")
 J.aR0(k,B.br.nC(A.T(["token",$.kX,"question",a,"keyword",m.x],t.N,t.ob),null))
 s=7
