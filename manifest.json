@@ -1,7 +1,7 @@
 {
     "name": "Shishya AI",
     "short_name": "Shishya",
-    "start_url": "/",
+    "start_url": "/shishyaai/",
     "display": "standalone",
     "orientation": "portrait-primary",
     "background_color": "#ffffff",
@@ -9,12 +9,12 @@
     "description": "Shishya AI - Your AI learning companion",
     "icons": [
         {
-            "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAJ+c5nUAAAAASUVORK5CYII=",
+            "src": "icons/Icon-192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAJ+c5nUAAAAASUVORK5CYII=",
+            "src": "icons/Icon-512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
